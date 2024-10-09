@@ -2,7 +2,7 @@ class VirtualBankSystem {
     var accountType = ""
     var isOpened = true
     func welcomeCustomer() {
-        print("Welcome to your virtual bank system.")
+        print("Welcome to the virtual bank.")
     }
     func onboardCustomerAccountOpening() {
         print("What kind of account would you like to open?")
